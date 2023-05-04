@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''A coroutine called async_generator that takes no arguments.
-  The coroutine will loop 10 times, each time asynchronously 
+  The coroutine will loop 10 times, each time asynchronously
   wait 1 second, then yield a random number b/n 0 and 10.
   Use the random module
 '''
